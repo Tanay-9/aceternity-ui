@@ -7,7 +7,7 @@ import {
 } from "@/components/ui/animated-modal";
 import Link from "next/link";
 import { BackgroundGradient } from "@/components/ui/background-gradient";
-import { GlareCard } from "@/components/ui/glare-card";
+
 
 interface Course {
     id : number,
